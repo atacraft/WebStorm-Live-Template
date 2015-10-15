@@ -1,0 +1,10 @@
+{
+  "files":{
+    "AMD.xml":"AMD Globals",
+    "Console.xml":"Console Templates",
+    "ExtJs.xml":"ExtJs Templates",
+    "JS.xml":"JS Templates",
+    "Mocha test framework.xml":"Mocha Templates",
+    "Timers.xml":"Timers Templates",
+  }
+}
